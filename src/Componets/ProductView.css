@@ -1,0 +1,21 @@
+
+.itemview img{
+    
+    width: 600px;
+    height: 500px;
+    align-content: center;
+}
+h3{
+    padding-top: 70px;
+    text-align: center;
+}
+.itemprice{
+    padding-top: 30px;
+    text-align: center;
+    color: grey;
+}
+.itemdesc{
+    padding-top: 10px;
+    font-size: 18px;
+    text-align: center;
+}

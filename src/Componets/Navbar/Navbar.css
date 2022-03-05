@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    margin-top: .5rem;
+}
+.logo{
+    width: 100px;
+    height: 70px;
+    margin-top: 10px;
+}
+
+ul li{
+    list-style: none;
+    display: flex;
+    float: left;
+    padding-left: 2rem;
+    justify-content: space-around;
+
+}
+ 
+.lists .nav-list{
+    margin-top: 5px;
+    text-align: center;
+    padding-left: 50px;
+}
+.lists a{
+    text-decoration: none;
+    color: rgb(50, 4, 77);
+    text-align: center;
+    margin: 50%, 50%;
+}
+.lists a:hover{
+    color: green;
+}
+
+.search-bar{
+    float: right;
+    padding-right: 150px;
+    margin-top: 40px;
+}
+
+.search-bar input{
+    border: none;
+    width: 200px;
+    height: 35px;
+    top: 66px;
+    right: 110px;
+    bottom: auto;
+    border: 0;
+    border-bottom: 3px solid green;
+    border-radius: 20px;
+    background-color: transparent;
+}
+.cart{ 
+    padding-left: 150px ;
+    
+    
+}
+.nav-img-logo {
+    width: 60px;
+    height: 50px;
+    margin-left: 5px;
+    align-items: center;
+}
